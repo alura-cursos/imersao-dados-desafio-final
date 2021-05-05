@@ -143,7 +143,7 @@ Serão 10 bolsas de estudos integrais para o **Bootcamp de Data Science Aplicada
 
 ### Quem pode participar?
 
-A premiação é exclusiva para participantes inscritos na #ImersãoDados 3° Edição.
+A premiação é exclusiva para participantes inscritos na #ImersãoDados 3° Edição. Participantes do Bootcamp de DataScience aplicada (Primeira edição) e premiados com bolsas nas imersões dados anteriores, não serão elegíveis a premiação. Mas estão convidados a enviar seus projetos para serem analisados.  
 
 ### Prazo
 
@@ -151,7 +151,7 @@ A submissão final deve ser feita até o dia 09/05/2021 (Domingo) 23h59 horário
 
 ### Sobre o envio do Desafio
 
-Você deve submeter o link do seu repositório [neste Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSfcuvhSoXlbggZeRG3Y28Vb9xwCs3MDNFLjSh3WyS96slRsZA/viewform?usp=sf_link).  O repositório de submissão estar público para que seja possível analisar seu projeto.
+Você deve submeter o link do seu repositório [neste Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSfcuvhSoXlbggZeRG3Y28Vb9xwCs3MDNFLjSh3WyS96slRsZA/viewform?usp=sf_link).  O repositório de submissão precisa estar público para que seja possível analisar seu projeto.
 
 
 ### Regras para envio do desafio
