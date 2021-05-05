@@ -4,9 +4,9 @@
 
 Neste repositório você vai encontrar todas as informações necessárias para o desenvolvimento do projeto final da Imersão Dados.
 
-O nosso objetivo é que você construa um projeto de Data Science com análise exploratória e desenvolva um modelo de machine learning para auxiliar na descoberta de novos medicamentos. 
+O nosso objetivo é que você construa um projeto de Data Science com análise exploratória e desenvolva um modelo de machine learning para auxiliar na descoberta de novos medicamentos, aplicando todo o conhecimento que você irá adquirir na imersão e criando um projeto incrível no github, deixando-o com a sua cara. 
 
-Mas fique de boa, use este documento como um guia para a construção da sua pesquisa e mergulhe fundo!
+Se você não sabe por onde iniciar, não se preocupe! Use este documento como um guia para a construção da sua pesquisa e mergulhe fundo!
 
 Sabemos que esse pode ser o seu primeiro projeto de Data Science. Queremos que você tenha um portfólio com um projeto mais aplicável e mais próximo do cotidiano de cientistas de dados. E, para isso, temos alguns lembretes para que você reflita quando for trabalhar. Então, mão na massa!
 
@@ -14,10 +14,8 @@ Sabemos que esse pode ser o seu primeiro projeto de Data Science. Queremos que v
 
 Os critérios que utilizaremos para analisar os projetos foram divididos em duas etapas de observação, sendo elas:
 
-1. Técnica
-2. Prática
 
-## 1. Técnica
+## Critérios de avaliação técnicos
 
 ### Escopo do Projeto
 
@@ -38,17 +36,19 @@ O projeto precisa expressar e justificar qual a linha de raciocínio foi criada 
 
 Parte da entrega de um estudo é mostrar para a comunidade qual o valor do seu projeto, dessa forma, contextualizar e aproximar o(a) interlocutor(a) é vital. 
 
-É imprescindível que você pense que seu(sua) interlocutor(a), muitas vezes, não sabe do que o estudo trata e/ou não tem familiaridade com tecnologia e programação. Por isso, o notebook precisa ser explicativo de forma que a informação seja acessível para todos(as).
+É imprescindível que você pense que seu(sua) interlocutor(a), muitas vezes, não sabe do que o estudo trata e/ou não tem familiaridade com tecnologia e programação. Por isso, o notebook precisa ser explicativo de forma que a informação seja acessível para seu público alvo.
 
 As conclusões parciais e a conclusão final são ótimos momentos para que a informação que você extraiu dos dados seja facilmente entregue ao(à) leitor(a). Ademais, você pode adicionar na conclusão as limitações do seu projeto, bem como as ideias para projetos futuros.   
 
 ### Pesquisas externas e cruzamento de dados
 
-Do ponto de vista do estudo, é importante que outras fontes de informações sejam utilizadas para colaborar na construção da argumentação do projeto. E, do ponto de vista técnico, isso mostra adaptabilidade e antecipação, pois o cruzamento de dados é um passo muito fundamental no seu amadurecimento enquanto Data Scientist.
+Do ponto de vista do estudo, é importante que outras fontes de informações sejam utilizadas para colaborar na construção da argumentação do projeto. E, do ponto de vista técnico, isso mostra adaptabilidade e antecipação, pois o cruzamento de informações é um passo muito fundamental no seu amadurecimento enquanto Data Scientist.
 
-Porém, é preciso tomar bastante cuidado ao fazer essa junção: será avaliado o valor agregado à pesquisa, não somente o cruzamento em si. 
+Porém, é preciso tomar bastante cuidado ao fazer essa junção: será avaliado o valor agregado à pesquisa, não somente as informações extras. 
 
-## 2. Prático
+Um exemplo: você pode pesquisar na literatura científica artigos que falam sobre drug discovery, com informações que você julgue relevantes, e utilizar esses dados e informações na sua argumentação e no desenvolvimento do seu storytelling.
+
+## Critério de avaliação práticos
 
 Os critérios práticos são bastante objetivos e nítidos, cientista. Use esses critérios como lembretes sobre o conteúdo que deve produzir.
 
@@ -60,6 +60,8 @@ Os critérios práticos são bastante objetivos e nítidos, cientista. Use esses
 - O projeto contém meios para visualizar dados (gráficos ou tabelas) que ajudam na argumentação dos pontos principais do cientista?
 - A bibliografia e fontes de dados alternativas foram citadas?
 - O projeto é inédito e houve cuidado para evitar plágio? 
+
+## Como iniciar seu projeto
 
 Para começar seu projeto, você deve criar um **Fork** do repositório pois dentro dele, contém toda a estrutura de pastas recomendada e também um arquivo README.md, no qual você deve reescrever, adicionando uma apresentação do seu projeto.
 
