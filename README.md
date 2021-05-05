@@ -1,3 +1,4 @@
+
 # Desafio Final Imersão Dados
 
 **Olá Cientistas!**
@@ -80,18 +81,18 @@ Agora está tudo pronto, você terá uma cópia do repositório para iniciar o s
 
 ### Organização de diretórios
 
-Nós já propomos uma estrutura de diretórios, onde está a pasta dados com duas divisões 
+Nós já propomos uma estrutura de diretórios, com duas pastas separando os dados das análises: 
 
-Estrutura de pastas:
 
 - **Pasta Dados:** Onde ficarão os arquivos dos dados usados no projeto.
-- **Pasta Análises:** Onde ficarão seus notebooks.
+- **Pasta Notebooks:** Onde ficarão os notebooks com suas análises.
+
+Na imagem abaixo, temos um highligth da pastas **Dados** e **Notebook**. Essa estrutura é uma sugestão você pode ficar a vontade em reorganizar conforme considerar o idela para seu projeto. 
 
 ![imagem mostrando a estrutura de pastas padrão do projeto no GitHub](https://user-images.githubusercontent.com/50880764/117161359-3756c600-ad98-11eb-98df-f56e35e6ea96.png)
 
 
-
-
+Ao realizar o **fork** deste repositório, o arquivo README.md é uma cópia deste arquivo que você está lendo agora. Para deixar o seu projeto com cara de portfólio você precisa modificar o arquivo README.md adicionando a motivação e detalhamento do seu projeto. Aqui vai algumas dicas para você editar o README.md no repositório que foi criado em sua conta do github.
 
 
 Como escrever um bom README:
@@ -113,8 +114,18 @@ Materiais sobre **biologia** para você embasar seu projeto:
 
 Materiais para auxiliar o desenvolvimento do **README**:
 
-- [Criando anotações com Markdown](https://www.alura.com.br/artigos/criando-anotacoes-com-markdown)
-- [Exemplo de ReadMe](https://github.com/souzajvp/data_science_bootcamp/tree/main/modulo_final)
+- [Criando anotações com Markdown](https://www.alura.com.br/artigos/criando-anotacoes-com-markdown)\
+
+- [Projeto de Data Science criado no Bootcamp](https://github.com/souzajvp/data_science_bootcamp/tree/main/modulo_final)
+
+Alguns projetos incrível dos nosso alunos para você se inspirar:
+
+- [Daiane Klein](https://colab.research.google.com/drive/1EwueEMQC_vLXf_oxN3w60itrvsHjrw8B?usp=sharing)
+
+- [Conrado Bittencourt](https://colab.research.google.com/drive/1QCRMnF-9cFRuOO_PrWpzj-UAclQuIomB?usp=sharing)
+
+- [Matheus Leite Llorente](https://colab.research.google.com/drive/1eca1wG-pkGT0IiPv4-vcpjur3tJjj-6e?usp=sharing)
+
 
 Informações de submissão
 
