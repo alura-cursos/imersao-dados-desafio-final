@@ -72,7 +72,7 @@ Primeiro, clicamos na opção Fork que fica no canto superior direito.
 
 ![imagem mostrando no canto superior direito a opção Fork](https://user-images.githubusercontent.com/50880764/117156939-8c90d880-ad94-11eb-922e-8773b3c13bc6.png)
 
-Agora está tudo pronto, você terá uma cópia do repositório para iniciar o seu projeto.
+Agora está tudo pronto, você terá uma cópia do repositório para iniciar o seu projeto. Conforme a imagem, abaixo, no canto superior esquerdo aparecerá o seu nome seguido do nome do repositório do projeto.
 
 ![imagem mostrando repositório copiado para um novo usuário](https://user-images.githubusercontent.com/50880764/117156978-94507d00-ad94-11eb-8fe3-ffb33a645197.png)
 
@@ -87,14 +87,24 @@ Nós já propomos uma estrutura de diretórios, com duas pastas separando os dad
 - **Pasta Dados:** Onde ficarão os arquivos dos dados usados no projeto.
 - **Pasta Notebooks:** Onde ficarão os notebooks com suas análises.
 
-Na imagem abaixo, temos um highligth da pastas **Dados** e **Notebook**. Essa estrutura é uma sugestão você pode ficar a vontade em reorganizar conforme considerar o idela para seu projeto. 
+Na imagem abaixo, temos um highligth da pastas **Dados** e **Notebook**. Essa estrutura é uma sugestão você pode ficar a vontade em reorganizar conforme considerar o ideal para seu projeto. 
 
 ![imagem mostrando a estrutura de pastas padrão do projeto no GitHub](https://user-images.githubusercontent.com/50880764/117161359-3756c600-ad98-11eb-98df-f56e35e6ea96.png)
 
 
 Ao realizar o **fork** deste repositório, o arquivo README.md é uma cópia deste arquivo que você está lendo agora. Para deixar o seu projeto com cara de portfólio você precisa modificar o arquivo README.md adicionando a motivação e detalhamento do seu projeto. Aqui vai algumas dicas para você editar o README.md no repositório que foi criado em sua conta do github.
 
+* Primeiro, vamos clicar na opção "editar esse arquivo" que fica no canto superior direito.
+![imagem indicando no canto superior direito a opção "editar esse arquivo"](https://user-images.githubusercontent.com/26041581/117192503-3170dd00-adb8-11eb-864f-988a8c9c0f55.png)
 
+* Depois podemos escrever o conteudo do readme na caixa Edit file
+![imagem indicando a caixa onde podemos editar o conteúdo do arquivo README](https://user-images.githubusercontent.com/26041581/117192548-3d5c9f00-adb8-11eb-8402-75af1dc5daab.png)
+
+* Quando terminarmos as alterações vamos para o final na página e procuramos pelo campo Commit changes onde podemos descrever nossas alterações e depois clicar na opção Commit changes.
+![imagem indicando campo no final da página onde podemos descrever nossas alterações e salvar nossas alterações](https://user-images.githubusercontent.com/26041581/117192564-42215300-adb8-11eb-83b0-d9f6887b8bd1.png)
+
+* Finalmente teremos um novo README agora com as nossas alterações
+![imagem indicando que nossas alterações foram salvas no README](https://user-images.githubusercontent.com/26041581/117192571-464d7080-adb8-11eb-9a70-2cef826ed24e.png)
 Como escrever um bom README:
 
 - Insira uma imagem;
