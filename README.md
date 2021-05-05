@@ -67,15 +67,11 @@ Para começar seu projeto, você deve criar um **Fork** do repositório pois den
 
 Primeiro, clicamos na opção Fork que fica no canto superior direito.
 
-
-![imagem mostrando no canto superior direito a opção Fork]()
-
-
+![imagem mostrando no canto superior direito a opção Fork](https://user-images.githubusercontent.com/50880764/117156939-8c90d880-ad94-11eb-922e-8773b3c13bc6.png)
 
 Agora está tudo pronto, você terá uma cópia do repositório para iniciar o seu projeto.
 
-
-![imagem mostrando repositório copiado para um novo usuário]()
+![imagem mostrando repositório copiado para um novo usuário](https://user-images.githubusercontent.com/50880764/117156978-94507d00-ad94-11eb-8fe3-ffb33a645197.png)
 
 ![imagem mostrando a estrutura de pastas padrão do projeto no GitHub]()
 
