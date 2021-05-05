@@ -75,12 +75,24 @@ Agora está tudo pronto, você terá uma cópia do repositório para iniciar o s
 
 ![imagem mostrando repositório copiado para um novo usuário](https://user-images.githubusercontent.com/50880764/117156978-94507d00-ad94-11eb-8fe3-ffb33a645197.png)
 
-![imagem mostrando a estrutura de pastas padrão do projeto no GitHub](https://user-images.githubusercontent.com/50880764/117161359-3756c600-ad98-11eb-98df-f56e35e6ea96.png)
+
+## Dicas
+
+### Organização de diretórios
+
+Nós já propomos uma estrutura de diretórios, onde está a pasta dados com duas divisões 
 
 Estrutura de pastas:
 
 - **Pasta Dados:** Onde ficarão os arquivos dos dados usados no projeto.
 - **Pasta Análises:** Onde ficarão seus notebooks.
+
+![imagem mostrando a estrutura de pastas padrão do projeto no GitHub](https://user-images.githubusercontent.com/50880764/117161359-3756c600-ad98-11eb-98df-f56e35e6ea96.png)
+
+
+
+
+
 
 Como escrever um bom README:
 
