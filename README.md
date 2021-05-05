@@ -127,6 +127,32 @@ Alguns projetos incrível dos nosso alunos para você se inspirar:
 - [Matheus Leite Llorente](https://colab.research.google.com/drive/1eca1wG-pkGT0IiPv4-vcpjur3tJjj-6e?usp=sharing)
 
 
-Informações de submissão
+## Premiação
 
-Mergulhe fundo, é apenas o primeiro passo!
+Serão 10 bolsas de estudos integrais para o **Bootcamp de Data Science Aplicada Alura** , que começa dia **18 de maio de 2021**. O prêmio não poderá ser dividido ou revertido em dinheiro.
+
+### Quem pode participar?
+
+A premiação é exclusiva para participantes inscritos na #ImersãoDados 3° Edição.
+
+### Prazo
+
+A submissão final deve ser feita até o dia 09/05/2021 (Domingo) 23h59 horário de Brasília.
+
+### Sobre o envio do Desafio
+
+Você deve submeter o link do seu repositório [neste Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSfcuvhSoXlbggZeRG3Y28Vb9xwCs3MDNFLjSh3WyS96slRsZA/viewform?usp=sf_link).  O repositório de submissão estar público para que seja possível analisar seu projeto.
+
+
+### Regras para envio do desafio
+
+- É necessário informar o mesmo e-mail que foi utilizado no cadastrado da #imersãoDados.
+- O resultado será divulgado dia 10/05/2021 na Live de encerramento da #imersãoDados.
+- O repositório deve conter os topics #alura e #imersaoDados.
+- Não altere o repositório, após o horário de encerramento do desafio.
+- Qualquer alteração após esse horário será desconsiderada na avaliação.
+- Seja gentil :). Não somos especializados em competições e estamos fazendo esse desafio para te motivar e incentivar a comunidade de Data Science, espero que goste e se divirta.
+
+
+
+**Mergulhe fundo, é apenas o primeiro passo!**
