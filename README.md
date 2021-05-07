@@ -120,7 +120,7 @@ Links úteis:
 Materiais sobre **biologia** para você embasar seu projeto:
 
 - [Drug discovery: passado, presente e futuro](https://docs.google.com/document/d/10EhrQBChlyYIcff3to7PrCQi5HcNk2r-zd2ZCKPtcz8/edit?usp=sharing)
-- [Expressão gênica: o caminho da informação biológica](https://docs.google.com/document/d/1TR-Q1cb2k_-S_MZC-60PMN2CbVGZbLMKT0Lr_didPY0/edit?usp=sharing)
+- [Expressão gênica: o caminho da informação biológica](https://drive.google.com/file/d/1VNP08ffCiGD8cqaBkdHATWSX8Yxfm3dj/view?usp=sharing)
 
 Materiais para auxiliar o desenvolvimento do **README**:
 
