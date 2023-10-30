@@ -1,11 +1,12 @@
 
-# Desafio Final Imersão Dados
+# Manutenção e Transporte com Dados
 
-**Olá Cientistas!**
+**Olá Seres Evoluídos!**
 
-Neste repositório você vai encontrar todas as informações necessárias para o desenvolvimento do projeto final da Imersão Dados.
+Neste repositório você vai encontrar todas as informações necessárias para o desenvolvimento deste projeto.
 
-O nosso objetivo é que você construa um projeto de Data Science com análise exploratória e desenvolva um modelo de machine learning para auxiliar na descoberta de novos medicamentos, aplicando todo o conhecimento que você irá adquirir na imersão e criando um projeto incrível no github, deixando-o com a sua cara. 
+
+>O objetivo é que você construa um projeto de Data Science com análise exploratória e desenvolva um modelo de machine learning para auxiliar na descoberta de novos medicamentos, aplicando todo o conhecimento que você irá adquirir na imersão e criando um projeto incrível no github, deixando-o com a sua cara. 
 
 Se você não sabe por onde iniciar, não se preocupe! Use este documento como um guia para a construção da sua pesquisa e mergulhe fundo!
 
@@ -162,7 +163,6 @@ Você deve submeter o link do seu repositório [neste Google Forms](https://docs
 - Não altere o repositório, após o horário de encerramento do desafio.
 - Qualquer alteração após esse horário será desconsiderada na avaliação.
 - Seja gentil :). Não somos especializados em competições e estamos fazendo esse desafio para te motivar e incentivar a comunidade de Data Science, espero que goste e se divirta.
-
 
 
 **Mergulhe fundo, é apenas o primeiro passo!**
